@@ -1,0 +1,1 @@
+export const navigationItems = [{ title: "Insight", href: "/" }, { title: "Services", href: "/" }, { title: "Industries", href: "/" }, { title: "Carrer", href: "/" }, { title: "About", href: "/" }]

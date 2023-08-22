@@ -1,5 +1,5 @@
 
-const navigationItems= [{title:"Insight", href:"/"},{title:"Services", href:"/"},{title:"Industries", href:"/"}, {title:"Carrer", href:"/"}, {title:"About", href:"/"}]
+import { navigationItems } from "../../../sources/sources"
 
 const Navigation = () => {
 

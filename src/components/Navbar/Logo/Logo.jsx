@@ -1,5 +1,4 @@
 import logo from "../../../assets/favicon.ico"
-import "./Logo.css"
 
 
 const Logo = () => {
