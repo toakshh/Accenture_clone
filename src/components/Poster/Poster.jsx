@@ -2,7 +2,7 @@ import posterImage from "../../assets/webp/hero2.webp"
 import change from "../../assets/svg/text.svg"
 const Poster = () => {
     return (
-        <div className="w-full h-screen my-40 flex md:flex-col">
+        <div className="w-full my-40 md:mb-0 flex md:flex-col">
             <div className="lg:w-1/2 w-full">
                 <img src={posterImage} alt="poster image"/>
                 <img src={change} alt="change image" />

@@ -3,6 +3,7 @@ import Global from "../Global/Global"
 import Hero from "../Hero/Hero"
 import Poster from "../Poster/Poster"
 import Value from "../Value/Value"
+import News from "../News/News"
 
 const Body = () => {
     return (
@@ -14,6 +15,7 @@ const Body = () => {
             {/* todo gallery... */}
             <Global />
             <Poster />
+            <News />
         </main>
     )
 }

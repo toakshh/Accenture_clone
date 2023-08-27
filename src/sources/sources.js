@@ -113,3 +113,25 @@ export const cardData= [{
     title: "Lorem, ipsum dolor sit amet consectetur adipisicing.",
     image: "",
     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia exercitationem fugit perspiciatis nesciunt delectus cupiditate consequatur ratione quod omnis ut, dolorum, temporibus dolor reiciendis expedita!"},]
+
+export const newsData= [{
+    date: "2023 May 18",
+    id: "artsast",
+    heading: "Good work buddy consectetur adipisicing elit. Nihil saepe quaerat velit illo assumenda labore sapiente."
+    ,
+},
+{
+    date: "2023 Aprill 01",
+    id: "trsats",
+    heading: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nihil saepe quaerat velit illo assumenda labore sapiente.",
+},
+{
+    date: "2023 August 22",
+    id: "ast",
+    heading: "Lorem, ipartsarsta  arts nsectetur adipisicing elit. Nihil saepe quaerat velit illo assumenda labore sapiente.",
+},
+{
+    date: "2023 October 16",
+    id: "hdts",
+    heading: "artrst tarsta r tarrst aradipisicing elit. Nihil saepe quaerat velit illo assumenda labore sapiente.",
+},]    
