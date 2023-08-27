@@ -4,6 +4,7 @@ import Hero from "../Hero/Hero"
 import Poster from "../Poster/Poster"
 import Value from "../Value/Value"
 import News from "../News/News"
+import Footer from "../Footer/Footer"
 
 const Body = () => {
     return (
@@ -16,6 +17,7 @@ const Body = () => {
             <Global />
             <Poster />
             <News />
+            <Footer />
         </main>
     )
 }

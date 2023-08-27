@@ -135,3 +135,19 @@ export const newsData= [{
     id: "hdts",
     heading: "artrst tarsta r tarrst aradipisicing elit. Nihil saepe quaerat velit illo assumenda labore sapiente.",
 },]    
+
+export const footerData= [
+    "Preference", 
+    "Center",
+    "Careers",
+    "About Us",
+    "Contact Us",
+    "Locations",
+    "Sitemap",
+    "Privacy Statement",
+    "Terms & Conditions",
+    "Cookie Policy/Settings",
+    "Accessibility Statement",
+    "Do Not Sell/Share My Personal Information (for CA)",
+    "© 2023 Accenture. All Rights Reserved."
+]
