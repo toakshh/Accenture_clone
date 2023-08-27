@@ -5,7 +5,7 @@ import Search from "./Search/Search"
 
 const Navbar = () => {
     return (
-        <nav className="flex justify-around items-center my-5 fixed w-full" >
+        <nav className="p-5 flex justify-around items-center mb-5 sticky top-0 bg-black w-full z-20" >
             <Hamburger />
             <Logo />
             <Navigation />

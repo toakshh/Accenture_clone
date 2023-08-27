@@ -6,19 +6,21 @@ export default {
   ],
   theme: {
     screens: {
-      'lg': {'min': '851px',},
-      'md': {'max': '850px'},
-      'sm': {'max': '639px'},
-      'xs': {'max': '450px'}
+      'lg': { 'min': '851px', },
+      'md': { 'max': '850px' },
+      'sm': { 'max': '639px' },
+      'xs': { 'max': '450px' }
     },
-    extend: {},
-    colors:{
-      "primary":{
-        500: "#6500A0",
-      },
-      "black": "#000000",
-      "light": "#ffffff"
-    }
+    extend: {
+      colors: {
+        "primary": {
+          500: "#6500A0",
+        },
+        "black": "#000000",
+        "light": "#ffffff"
+      }
+    },
+    
   },
   plugins: [],
 }
